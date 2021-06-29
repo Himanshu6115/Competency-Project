@@ -10,7 +10,14 @@ function Login ()
       let history = useHistory();
 
       function Redirecting (){
-        history.push("/login/registration")
+		 const i=0;
+		  if(i==0)
+		  {
+			 history.push("/home") 
+		  }
+		  else{
+			  history.push("/");
+		  }
 
       }
     return (
