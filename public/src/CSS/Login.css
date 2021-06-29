@@ -1,0 +1,160 @@
+.Login {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.Login{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #212F3C;
+  background-size: cover;
+}
+form{
+  margin-left: -22em;
+  margin-top: 7em;
+}
+
+.sign-in{
+  background-color: #1A5276;
+  padding: 30px;
+  width: 30.4em;
+  height: 8em;
+ margin-left: -2em;
+ margin-top: -5em;
+ border-radius: 30px 30px 0px 0px;
+
+}
+.seperate{
+  background-color: #D0D3D4;
+  width: 30.4em;
+  height: 22em;
+  margin-left: -2em;
+  padding-top: 1.2em;
+  border-radius: 0px 0px 30px 30px;
+
+}
+
+h2{
+  color:white;
+  margin-bottom: 30px;
+  font-size: 50px;
+  font-weight: 500;
+
+}
+.forget{
+  margin-left: -17em;
+}
+
+
+.group{
+  width: 350px;
+  margin-bottom: 20px;
+  
+}
+
+ #labeling{
+  color: #666;
+  font-size: 1.5em;
+  margin-left: -7em;
+  margin-bottom: 5px;
+  padding-top: .8em;
+
+}
+
+ #userName{
+    width:375px;
+    padding:10px;
+    padding-left:40px;
+    border-radius: 25px;
+    background-image: linear-gradient( #FDFEFE, #FDFEFE);
+    color:black;
+    border:none;
+    outline: none;
+    display: block;
+    margin-left: 3em;
+    margin-top: -2.5em;
+}
+ #userPassword{
+    width:375px;
+    padding:10px;
+    padding-left:40px;
+    border-radius: 25px;
+    background-image: linear-gradient( #FDFEFE, #FDFEFE);
+    color:black;
+    border:none;
+    outline: none;
+    display: block;
+    margin-left: 3em;
+    margin-top: -2.5em;
+}
+
+.pass{
+  margin-top: 1em;
+  margin-left: -4.5em;
+
+}
+.us{
+  margin-top: 1.3em;
+  margin-left: -4.5em;
+}
+
+#btn1{
+   width:375px;
+    border-radius: 25px;
+    background-image: linear-gradient( #1A5276, #1A5276);
+    color:#fff;
+    font-weight: 700;
+    font-size: 2em;
+    cursor: pointer;
+    margin-left: -1em;
+    margin-top: 1em;
+    color: white;
+    outline: none;
+    border:none;
+}
+i{
+  margin-left: -10em;
+
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

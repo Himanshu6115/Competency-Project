@@ -1,0 +1,40 @@
+.header {
+  margin-top: px;
+  display: flex;
+  background-color: blue;
+  flex: 1;
+  flex-direction: fill;
+}
+
+.header-top {
+  display: flex;
+  width: 100%;
+  background-color: blue;
+  height: 60px;
+}
+
+.header-top__logo {
+  display: flex;
+  height: 60px;
+
+  
+}
+
+
+.header-top__navbar {
+  display: flex;
+  flex: 1;
+background-color: blue;
+  flex-direction: column;
+}
+
+
+.header-top__navigation {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-end;
+background-color: blue;
+  margin-right: 55px;
+}
+
