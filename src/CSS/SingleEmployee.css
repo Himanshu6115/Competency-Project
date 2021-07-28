@@ -1,0 +1,34 @@
+table, td, th {
+  border: 1px solid black;
+}
+
+ 
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+td {
+  text-align: fill;
+}
+
+
+.al{
+ 
+ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 500px;
+}
+.single{
+ background-color:#BEBEBE; 
+ width: 120%;
+}
+
+
+
+
+
+
