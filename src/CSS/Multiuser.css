@@ -1,0 +1,39 @@
+#files{
+    width:310px;
+    padding:4px;
+    padding-left:20px;
+    border-radius: 25px;
+   background-image: linear-gradient( #1A5276, #1A5276);
+    border:none;
+    outline: none;
+    display: block;
+    margin-top: -1.8em;
+    font-size: 1.3em;
+    margin-left: 17em;
+    color: white;
+}
+#btn30{
+    width:190px;
+    padding:4px;
+    padding-left:20px;
+    border-radius: 25px;
+    background-image: linear-gradient( #1A5276, #1A5276);
+    color:#fff;
+    font-weight: 700;
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-left: 35em;
+    margin-top: 9em;
+    color: white;
+    outline: none;
+    border:none;
+}
+
+.f{
+    margin-top: 528px;
+}
+.Multi{
+  background-image: url("https://wallpaperaccess.com/full/656665.jpg");
+  background-size: cover;
+  margin-left: -2em;
+}

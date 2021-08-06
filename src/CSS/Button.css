@@ -1,0 +1,47 @@
+#btn2{
+   width:400px;
+    border-radius: 25px;
+    background-image: linear-gradient( #1A5276, #1A5276);
+    color:#fff;
+    font-weight: 700;
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-left: 9em;
+    margin-top: 4.7em;
+    color: white;
+    outline: none;
+    border:none;
+}
+#btn3{
+    width:410px;
+    border-radius: 25px;
+    background-image: linear-gradient( #1A5276, #1A5276);
+    color:#fff;
+    font-weight: 700;
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-left: 2em;
+    color: white;
+    outline: none;
+    border:none;
+}
+.ter{
+  margin-top: -13.7em;
+}
+.choice{
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/20160809/pngtree-watermark-blue-background-photo-615800.jpg");
+  background-size: cover;
+}
+.bfrm{
+  box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
+  background: rgb(255, 255, 255, 0.04);
+  width: 45em;
+  height: 10em;
+  margin-left: 17em;
+  margin-top: 7em;
+  padding-top: 30px;
+  padding-left: 30px;
+  border-radius: 25px;
+ font-style: italic
+
+}
